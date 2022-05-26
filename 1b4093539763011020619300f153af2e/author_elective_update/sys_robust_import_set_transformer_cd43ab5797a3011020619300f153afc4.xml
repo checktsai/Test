@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="DELETE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for competency</description>
+        <name>competency_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine/>
+        <source_table>x_278924_cdm_ihub_import_5ab597979763011020619300f153afe7</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 14:16:01</sys_created_on>
+        <sys_id>cd43ab5797a3011020619300f153afc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>competency_rte_ihub</sys_name>
+        <sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_cd43ab5797a3011020619300f153afc4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 14:16:01</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CDM">1b4093539763011020619300f153af2e</application>
+        <file_path/>
+        <instance_id>d042a1f5dbd8f70042b321c40596190b</instance_id>
+        <instance_name>dev76287</instance_name>
+        <name>sys_robust_import_set_transformer_cd43ab5797a3011020619300f153afc4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer"><sys_robust_import_set_transformer action="INSERT_OR_UPDATE"><active>true</active><batch_size>10</batch_size><description>RTE definition for competency</description><name>competency_rte_ihub</name><properties/><robust_transform_engine/><source_table>x_278924_cdm_ihub_import_5ab597979763011020619300f153afe7</source_table><sys_class_name>sys_robust_import_set_transformer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-24 14:16:01</sys_created_on><sys_id>cd43ab5797a3011020619300f153afc4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>competency_rte_ihub</sys_name><sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package><sys_policy/><sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope><sys_update_name>sys_robust_import_set_transformer_cd43ab5797a3011020619300f153afc4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-24 14:16:01</sys_updated_on><verbose>false</verbose></sys_robust_import_set_transformer></record_update>]]></payload>
+        <payload_hash>668410888</payload_hash>
+        <record_name>competency_rte_ihub</record_name>
+        <reverted_from/>
+        <source>1b4093539763011020619300f153af30</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 14:17:05</sys_created_on>
+        <sys_id>a083e39797a3011020619300f153af6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180f66db01b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 14:17:05</sys_updated_on>
+        <type>Robust Import Set Transformer</type>
+        <update_guid>4543ab57c6a301101bc72031ae3f8dc6</update_guid>
+        <update_guid_history>4543ab57c6a301101bc72031ae3f8dc6:-469612022,4543ab57c6a301101bc72031ae3f8dc6:-469612022</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 14:17:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_robust_import_set_transformer">sys_robust_import_set_transformer</sys_db_object>
+        <sys_id>26a286a43c6641c08a3f7c8d86d4c724</sys_id>
+        <sys_metadata>cd43ab5797a3011020619300f153afc4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>competency_rte_ihub</sys_name>
+        <sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope>
+        <sys_scope_delete display_value="">1f824f049a88464987630a0a0187ebd1</sys_scope_delete>
+        <sys_update_name>sys_robust_import_set_transformer_cd43ab5797a3011020619300f153afc4</sys_update_name>
+        <sys_update_version display_value="sys_robust_import_set_transformer_cd43ab5797a3011020619300f153afc4">a083e39797a3011020619300f153af6e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 14:17:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="arl competencies 1 apr 2022.xlsx (Upload" max_length="40" name="x_278924_cdm_1653397949316" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Competency: Primary" label="Competency: Primary" max_length="57" name="u_competency__primary" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Core Competency: Primary" label="Core Competency: Primary" max_length="78" name="u_core_competency__primary" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Domain: Primary" label="Domain: Primary" max_length="40" name="u_domain__primary" type="string"/>
+    </element>
+</database>

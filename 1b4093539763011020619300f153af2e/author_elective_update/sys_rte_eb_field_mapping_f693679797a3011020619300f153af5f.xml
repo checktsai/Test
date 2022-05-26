@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="DELETE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field/>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 14:17:30</sys_created_on>
+        <sys_id>f693679797a3011020619300f153af5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="">ab83ab5797a3011020619300f153afdd</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_SOURCE_TEMP_MAPPING">3a93679797a3011020619300f153af4f</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_f693679797a3011020619300f153af5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 14:17:30</sys_updated_on>
+        <target_sys_rte_eb_field/>
+    </sys_rte_eb_field_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CDM">1b4093539763011020619300f153af2e</application>
+        <file_path/>
+        <instance_id>d042a1f5dbd8f70042b321c40596190b</instance_id>
+        <instance_name>dev76287</instance_name>
+        <name>sys_rte_eb_field_mapping_f693679797a3011020619300f153af5f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping"><sys_rte_eb_field_mapping action="INSERT_OR_UPDATE"><order>100</order><referenced_sys_rte_eb_entity/><source_sys_rte_eb_field/><sys_class_name>sys_rte_eb_field_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-24 14:17:30</sys_created_on><sys_id>f693679797a3011020619300f153af5f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package><sys_policy/><sys_rte_eb_definition display_value="">ab83ab5797a3011020619300f153afdd</sys_rte_eb_definition><sys_rte_eb_entity_mapping display_value="IHUB_SOURCE_TEMP_MAPPING">3a93679797a3011020619300f153af4f</sys_rte_eb_entity_mapping><sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope><sys_update_name>sys_rte_eb_field_mapping_f693679797a3011020619300f153af5f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-24 14:17:30</sys_updated_on><target_sys_rte_eb_field/></sys_rte_eb_field_mapping></record_update>]]></payload>
+        <payload_hash>-1518564204</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1b4093539763011020619300f153af30</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 14:18:40</sys_created_on>
+        <sys_id>3fd3ab9797a3011020619300f153af96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180f66f24100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 14:18:40</sys_updated_on>
+        <type>RTE Field Mapping</type>
+        <update_guid>769367978ba30110355de5f8da657560</update_guid>
+        <update_guid_history>769367978ba30110355de5f8da657560:-1345442046,769367978ba30110355de5f8da657560:-1345442046,769367978ba30110355de5f8da657560:-1345442046</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 14:18:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_field_mapping">sys_rte_eb_field_mapping</sys_db_object>
+        <sys_id>b3393c3146de4020949f26376fe50900</sys_id>
+        <sys_metadata>f693679797a3011020619300f153af5f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope>
+        <sys_scope_delete display_value="">1f824f049a88464987630a0a0187ebd1</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_field_mapping_f693679797a3011020619300f153af5f</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_field_mapping_f693679797a3011020619300f153af5f">3fd3ab9797a3011020619300f153af96</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 14:18:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

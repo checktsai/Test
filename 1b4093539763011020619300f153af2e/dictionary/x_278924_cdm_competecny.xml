@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Competecny" max_length="40" name="x_278924_cdm_competecny" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element display="true" label="Competency" max_length="40" name="competency" type="string"/>
+        <element choice="3" label="Domain" max_length="32" name="domain" reference="x_278924_cdm_domain" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="domain"/>
+        </index>
+    </element>
+</database>

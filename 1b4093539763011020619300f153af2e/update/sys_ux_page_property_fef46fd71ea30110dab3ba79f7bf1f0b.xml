@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="Competency">f2f46fd7e7a30110914b30ac5702510e</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 14:23:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>fef46fd71ea30110dab3ba79f7bf1f0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope>
+        <sys_update_name>sys_ux_page_property_fef46fd71ea30110dab3ba79f7bf1f0b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 14:23:31</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_278924_cdm.f2f46fd7e7a30110914b30ac5702510e.root.globalSearchDataConfigId</unique_name>
+        <value>7af46fd786a30110a99e426e42a1e20a</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=fef46fd71ea30110dab3ba79f7bf1f0b"/>
+</record_update>

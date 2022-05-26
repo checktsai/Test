@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="CDM Domain">8d356a4c9777011020619300f153af9b</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>CDM Domains</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_278924_cdm_cdm_domain</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_278924_cdm.cdm_domain_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 18:31:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f3d0ba0897b7011020619300f153af36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CDM Domains</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope>
+        <sys_update_name>sys_app_module_f3d0ba0897b7011020619300f153af36</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 18:31:17</sys_updated_on>
+        <timeline_page/>
+        <title>CDM Domains</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CDM">1b4093539763011020619300f153af2e</application>
+        <file_path/>
+        <instance_id>d042a1f5dbd8f70042b321c40596190b</instance_id>
+        <instance_name>dev76287</instance_name>
+        <name>sys_app_module_f3d0ba0897b7011020619300f153af36</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="CDM Domain">8d356a4c9777011020619300f153af9b</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>CDM Domains</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_278924_cdm_cdm_domain</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_278924_cdm.cdm_domain_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-26 18:31:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f3d0ba0897b7011020619300f153af36</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CDM Domains</sys_name><sys_overrides/><sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package><sys_policy/><sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope><sys_update_name>sys_app_module_f3d0ba0897b7011020619300f153af36</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-26 18:31:17</sys_updated_on><timeline_page/><title>CDM Domains</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-298370374</payload_hash>
+        <record_name>CDM Domains</record_name>
+        <reverted_from/>
+        <source>1b4093539763011020619300f153af30</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 18:31:17</sys_created_on>
+        <sys_id>b3d0ba0897b7011020619300f153af38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18101a324770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 18:31:17</sys_updated_on>
+        <type>Module</type>
+        <update_guid>fbd0ba08e7b7011070ff4917db1ccf37</update_guid>
+        <update_guid_history>fbd0ba08e7b7011070ff4917db1ccf37:-298370374</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CDM Domains">a601be0897b7011020619300f153af58</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 18:32:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>97d6283191e94cb08b415c9117cd1100</sys_id>
+        <sys_metadata>f3d0ba0897b7011020619300f153af36</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CDM Domains</sys_name>
+        <sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope>
+        <sys_scope_delete display_value="">1f824f049a88464987630a0a0187ebd1</sys_scope_delete>
+        <sys_update_name>sys_app_module_f3d0ba0897b7011020619300f153af36</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f3d0ba0897b7011020619300f153af36">b3d0ba0897b7011020619300f153af38</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 18:32:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

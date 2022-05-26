@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 13:27:12</sys_created_on>
+        <sys_id>4e18975b9763011020619300f153afbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_278924_cdm_domain.x_278924_cdm.user</sys_name>
+        <sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope>
+        <sys_security_acl display_value="x_278924_cdm_domain">8a18575b9763011020619300f153af15</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4e18975b9763011020619300f153afbe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 13:27:12</sys_updated_on>
+        <sys_user_role display_value="x_278924_cdm.user" name="x_278924_cdm.user">934093539763011020619300f153af5e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CDM">1b4093539763011020619300f153af2e</application>
+        <file_path/>
+        <instance_id>d042a1f5dbd8f70042b321c40596190b</instance_id>
+        <instance_name>dev76287</instance_name>
+        <name>sys_security_acl_role_4e18975b9763011020619300f153afbe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-24 13:27:12</sys_created_on><sys_id>4e18975b9763011020619300f153afbe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_278924_cdm_domain.x_278924_cdm.user</sys_name><sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package><sys_policy/><sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope><sys_security_acl display_value="x_278924_cdm_domain">8a18575b9763011020619300f153af15</sys_security_acl><sys_update_name>sys_security_acl_role_4e18975b9763011020619300f153afbe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-24 13:27:12</sys_updated_on><sys_user_role display_value="x_278924_cdm.user" name="x_278924_cdm.user">934093539763011020619300f153af5e</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1193255304</payload_hash>
+        <record_name>x_278924_cdm_domain.x_278924_cdm.user</record_name>
+        <reverted_from/>
+        <source>1b4093539763011020619300f153af30</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 13:27:12</sys_created_on>
+        <sys_id>8e18975b9763011020619300f153afc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180f640074a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 13:27:12</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>c618975bd7630110aa37e91889f3d6c0</update_guid>
+        <update_guid_history>c618975bd7630110aa37e91889f3d6c0:1193255304</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_278924_cdm_domain.x_278924_cdm.user">b015a64c9777011020619300f153af51</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 17:39:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>d05d01cce6c840e4b11087ee4e983349</sys_id>
+        <sys_metadata>4e18975b9763011020619300f153afbe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_278924_cdm_domain.x_278924_cdm.user</sys_name>
+        <sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package>
+        <sys_parent display_value="">8a18575b9763011020619300f153af15</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope>
+        <sys_scope_delete display_value="">1f824f049a88464987630a0a0187ebd1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_4e18975b9763011020619300f153afbe</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_4e18975b9763011020619300f153afbe">8e18975b9763011020619300f153afc0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 17:39:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

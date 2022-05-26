@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Cdm 1653412038685</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_278924_cdm_1653412038685</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">b4e540f121120110a866589604c20d1a</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 17:07:19</sys_created_on>
+        <sys_id>1a7a086f9727011020619300f153afbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cdm 1653412038685</sys_name>
+        <sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope>
+        <sys_update_name>sys_db_object_1a7a086f9727011020619300f153afbe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 17:07:19</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CDM">1b4093539763011020619300f153af2e</application>
+        <file_path/>
+        <instance_id>d042a1f5dbd8f70042b321c40596190b</instance_id>
+        <instance_name>dev76287</instance_name>
+        <name>sys_db_object_1a7a086f9727011020619300f153afbe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Cdm 1653412038685</label><live_feed_enabled>false</live_feed_enabled><name>x_278924_cdm_1653412038685</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">b4e540f121120110a866589604c20d1a</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-24 17:07:19</sys_created_on><sys_id>1a7a086f9727011020619300f153afbe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cdm 1653412038685</sys_name><sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package><sys_policy/><sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope><sys_update_name>sys_db_object_1a7a086f9727011020619300f153afbe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-24 17:07:19</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1775938025</payload_hash>
+        <record_name>Cdm 1653412038685</record_name>
+        <reverted_from/>
+        <source>1b4093539763011020619300f153af30</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 17:07:19</sys_created_on>
+        <sys_id>de7a086f9727011020619300f153afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180f7098b520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 17:07:19</sys_updated_on>
+        <type>Table</type>
+        <update_guid>5a7a086f1d27011064b99e0d906c7dd3</update_guid>
+        <update_guid_history>5a7a086f1d27011064b99e0d906c7dd3:-1775938025</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 18:12:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>21c51fcd797948188853b92942ff5440</sys_id>
+        <sys_metadata>1a7a086f9727011020619300f153afbe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cdm 1653412038685</sys_name>
+        <sys_package display_value="CDM" source="x_278924_cdm">1b4093539763011020619300f153af2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CDM">1b4093539763011020619300f153af2e</sys_scope>
+        <sys_scope_delete display_value="">1f824f049a88464987630a0a0187ebd1</sys_scope_delete>
+        <sys_update_name>sys_db_object_1a7a086f9727011020619300f153afbe</sys_update_name>
+        <sys_update_version display_value="sys_db_object_1a7a086f9727011020619300f153afbe">de7a086f9727011020619300f153afd3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 18:12:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
